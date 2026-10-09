@@ -2,11 +2,13 @@
 
 An **all-in-one, self-contained** video production agent. Hand it a source — a
 brief, a script, a voiceover, or a reference video / contact sheet — and it plans,
-generates the assets, and builds the finished video **headlessly** with **Blender**
-(3D), **Remotion** (2D motion graphics) and **FFmpeg**.
+generates the assets, and builds the finished video **headlessly**.
 
-**Everything the agent needs is in `SKILL.md`.** One repo, one skill — it depends
-on no *other* repository, no other links, nothing to fetch.
+It carries **both halves** in one file: an **editing engine** (Blender 3D,
+Remotion 2D motion graphics, FFmpeg) **and** a **generative workspace** (a remote
+Colab/Kaggle GPU for image reconstruction, matting, 3D, audio, voice and video
+generation). **Everything the agent needs is in `SKILL.md`.** One repo, one skill —
+it depends on no *other* repository, no other links, nothing to fetch.
 
 **Repo:** https://github.com/adittaya/video-production-agent
 ```
