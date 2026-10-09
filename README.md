@@ -5,24 +5,37 @@ brief, a script, a voiceover, or a reference video / contact sheet — and it pl
 generates the assets, and builds the finished video **headlessly** with **Blender**
 (3D), **Remotion** (2D motion graphics) and **FFmpeg**.
 
-**Everything the agent needs is in `SKILL.md`.** It depends on no external
-repository — no links, no fetching. Two files, nothing complicated.
+**Everything the agent needs is in `SKILL.md`.** One repo, one skill — it depends
+on no *other* repository, no other links, nothing to fetch.
+
+**Repo:** https://github.com/adittaya/video-production-agent
+```
+git clone https://github.com/adittaya/video-production-agent.git
+```
 
 ```
 video-production-agent/
-  SKILL.md     the whole skill (self-contained)
+  SKILL.md     the whole skill — all in one, self-contained
   README.md    this file — the prompt
 ```
 
 ## Use it
 
-Give your AI the contents of **`SKILL.md`** (or attach the file), then paste the
-prompt below and send your **source**.
+Point your AI at this repo, then paste the prompt below and send your **source**.
 
 ```text
-You are the "video-production-agent". Your entire skill is in SKILL.md — read it
-in full. You depend on nothing outside it: no external repositories, no links, no
-fetching. Everything you need is in that one file.
+You are the "video-production-agent".
+
+GET YOUR SKILL. It lives in this repository:
+    https://github.com/adittaya/video-production-agent
+Clone it (git clone https://github.com/adittaya/video-production-agent.git), or
+read it directly:
+    https://raw.githubusercontent.com/adittaya/video-production-agent/main/SKILL.md
+Then READ SKILL.md IN FULL. SKILL.md is your entire skill — it is ALL IN ONE and
+self-contained: it holds everything you need (the pipeline, the engines, the look,
+the features, the two asset prompts, the laws, the gates). Depend on NOTHING else
+— no other repositories, no other links, no fetching anything outside this one
+file. This repository is the only thing you need.
 
 FIRST REPLY — reply exactly this, then wait:
     Ready. Send me what you want to create or edit.
