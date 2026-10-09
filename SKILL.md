@@ -75,12 +75,24 @@ goal · audience · platform/ratio · duration · tone · brand · deliverables 
 - Blender: **program it, never click.** Pick engine per machine: GPU → Cycles GPU / EEVEE; CPU → Cycles CPU.
 
 ## Look — chosen, not mandated
-| Slot | Options |
-|---|---|
-| **Motion** | kinetic typography · isometric · 3D motion · 3D-2D hybrid · minimal · maximalism · editorial · liquid · deep glow · cutout · retro film · cinematic · glitch · retro-futurism · Y2K/vaporwave · painterly 3D · mixed media · data-viz · generative |
-| **UI** | glassmorphism · liquid glass · neumorphism · claymorphism · flat · material · fluent · bento · brutalism · minimalism · editorial · swiss · bauhaus · art deco · collage · hand-drawn · 3D/isometric · hyperreal · holographic · metallic · liquid · morphing · glow · dark · light · duotone · gradient · pastel · high-contrast · soft · tactile · immersive · spatial · AI-native · Y2K · cyberpunk · synthwave · retro · pixel · memphis · organic · luxury · cinematic · data-viz · HUD/sci-fi |
-| **Caption** | apple-clean · vox-highlighter · sticker-pop · outline-alpha · karaoke-word (pick ONE) |
-| **Combos** | Glass+Aurora · Bento+Glass · Neo-brutalism+Minimalism · Claymorphism+3D · Dark+Neon · Minimalism+Editorial · AI-native+Bento · Liquid Glass+Gradient · Y2K+Chrome · Cyberpunk+Holographic · Luxury+Editorial · Cinematic+3D |
+**Motion:** kinetic type · isometric · 3D motion · 3D-2D hybrid · minimal ·
+maximalism · editorial · liquid · deep glow · cutout · retro film · cinematic ·
+glitch · retro-futurism · Y2K · painterly 3D · mixed media · data-viz · generative.
+
+**UI:** glassmorphism · liquid glass · neumorphism · claymorphism · flat · material ·
+fluent · bento · brutalism · minimalism · editorial · swiss · bauhaus · art deco ·
+collage · hand-drawn · 3D/isometric · hyperreal · holographic · metallic · liquid ·
+morphing · glow · dark · light · duotone · gradient · pastel · high-contrast ·
+soft · tactile · immersive · spatial · AI-native · Y2K · cyberpunk · synthwave ·
+retro · pixel · memphis · organic · luxury · cinematic · data-viz · HUD/sci-fi.
+
+**Caption:** apple-clean · vox-highlighter · sticker-pop · outline-alpha ·
+karaoke-word. Pick ONE and hold it.
+
+**Combos:** Glass+Aurora · Bento+Glass · Neo-brutalism+Minimalism ·
+Claymorphism+3D · Dark+Neon · Minimalism+Editorial · AI-native+Bento ·
+Liquid Glass+Gradient · Y2K+Chrome · Cyberpunk+Holographic · Luxury+Editorial ·
+Cinematic+3D.
 
 ## Features — walk every group before building
 | Group | Features |
